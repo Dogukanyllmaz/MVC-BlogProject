@@ -1,7 +1,6 @@
 <h1 align="center">Blog Site</h1>
 ## 🎯 About
 - It is developed in accordance with SOLID, DRY principles. 
--
 
 
 ## Latest Updates
